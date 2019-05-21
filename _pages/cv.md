@@ -24,7 +24,7 @@ Work experience
 * Coordinate with the outsourcing team to build the company's website.
 * Assist with troubleshooting issues and provide technical support. Improve the company's ERP system.
 * Help maintain One Harvard Street social media content.
-
+/
 * Mass Medical International Corporation Boston
 * Digital Marketing Intern                      Feb 2019-May 2019
 * Coordinate with the outsourcing team to build the company's website.
