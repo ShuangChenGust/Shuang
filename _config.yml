@@ -81,13 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Shuang Chen (Gustavo)"
-  avatar           : "profile.png"
+  avatar           : "0.jpg"
   bio              : "Actively seeking summer internship in IT system/ Market Analyst/ Front-end Design field form May 2019, USA."
   location         : "MA, USA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "N/A"
+  email            : "guschenwpi@gmail.com"
   researchgate     :  # https://github.com/ShuangChenGust"
   uri              :
   bitbucket        :
@@ -103,7 +101,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "shuang-chen-388548159"
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
