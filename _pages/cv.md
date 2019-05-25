@@ -20,24 +20,26 @@ Work experience
 ======
 
 * Mass Medical International Corporation Boston
-* Digital Marketing Intern                      Feb 2019-May 2019
+* Digital Marketing Intern                                                         Feb 2019-May 2019
 * Coordinate with the outsourcing team to build the company's website.
 * Assist with troubleshooting issues and provide technical support. Improve the company's ERP system.
 * Help maintain One Harvard Street social media content.
 
-
+======
 * Daimler Great China Ltd Beijing
 * Strategy Department-Intern Dec 2017-Jun 2018
 * Tracked the Market dynamic information, used Python and database tools to collect market information.
 * Analyzed the Mercedes-Benz's competitors, including marketing strategy, financial and management status.
 * Quantitative analyzed the Mercedes-Benz's Sales information, market volume, forecasted market trend and sales volume for next year.
 
+======
 
 * Volvo Car Distribution (Shanghai) Co., Ltd Shanghai
 * Researcher assistant May 2017- Aug 2017
 * Worked with MBA students to investigate the market share of Volvo cars. Cooperated with students from German and Russia.
 * Conducted a market research analysis and competitive industry analysis, issued a research report. 
 
+======
 
 * Pearson Management Consulting Co., Ltd- Shanghai Branch Shanghai
 * Higher Education Department- Sales Intern Mar 2017-Nov 2017
@@ -45,6 +47,7 @@ Work experience
 * Researched the market and designed the advertisement of Pearson's PTE exam. -Encouraged the team to use Cloud storage to manage the teaching resources and built a structure of the Cloud storage.
 * Dealt education problems with foreign universities Professors, gradually mastered in email communication.
 
+======
 
 * Shanghai QuanLi Culture Communication Co. Ltd Shanghai
 * Founder- Electronic Commerce Department & Competition Department Jan 2016-Jan 2017
@@ -53,6 +56,7 @@ Work experience
 * Organized the 2016’s Shanghai Municipal Games, five-star sports tennis games and other large games.
 * Participated in the financing negotiation process.
 
+======
 
 *Project & Academic Experience
 * Spring 2019: Research Assistant
@@ -60,6 +64,7 @@ Work experience
   * Duties included: Analyze the financial data by SAS, collect accounting informaiton
   * Supervisor: Professor Higgins
  
+ ======
  
 * Android APP development for university facilities services WPI 2019 
 * Used Android studio to develop an APP which can help students to schedule their activities in the university. 
