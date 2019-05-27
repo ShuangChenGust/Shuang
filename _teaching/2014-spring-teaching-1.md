@@ -1,14 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Project Experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Financial data analysis"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Worcester Polytechnic Institute, Professor Higgins"
+date: 2019-02-01
+location: "Worcester, MA"
 ---
+Research assistant. 
+1.Collected a lot of attrubties such as macro economic index, Politial variation index and to see how they affect the stock price. Used SAS to build a regression model and see their coefficients and significance.
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2.inported data from Thomson Reuters platform and cleaned the data by EXCEL. Analyzed and reported the data for the paper research. 
+
 
 Heading 1
 ======
