@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Android APP development for university facilities services"
 collection: teaching
-type: "Workshop"
+type: "Software Development Project"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Worcester Polytechnic Institute, IT department"
+date: 2019-03-01
 location: "Worcester, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+-Used Android studio to develop an APP which can help students to schedule their activities in the university.
+-Combined SQLite database and API of campus reservation system to develop the APP.
 
 Heading 1
 ======
