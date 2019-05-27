@@ -9,6 +9,7 @@ location: "Worcester, MA"
 ---
 
 -Used Android studio to develop an APP which can help students to schedule their activities in the university.
+
 -Combined SQLite database and API of campus reservation system to develop the APP.
 
 Heading 1
