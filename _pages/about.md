@@ -36,4 +36,5 @@ Because my advisor, I steped in to vehicle industry. I worked in Volvo in Shangh
 Live and Learn
 ======
 This is my motto, I hope to use my IT skills and business knowledge into practical work.
-I want to find a job in USA, 2019.
+
+I want to find an internship in IT field in USA, Fall-semester.
