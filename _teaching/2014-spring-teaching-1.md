@@ -1,6 +1,6 @@
 ---
 title: "Project Experience"
-collection: teaching
+collection: Project Experience
 type: "Financial data analysis"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Worcester Polytechnic Institute, Professor Higgins"
