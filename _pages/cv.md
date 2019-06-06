@@ -18,6 +18,13 @@ Education
 
 Work experience
 ======
+* Town of Shrewsbury, Massachusetts Gov.
+* Systems Programmer/Analyst Intern                                                May 2019-Now
+*Analyze business processes and workflows; define clear user requirements, and from that analysis, helps to establish viable software solutions with senior staff.
+*Work with department heads to define service expectations and functional requirements for the long term viability of these solutions, including escalation procedures for their application issues, outage management, maintenance, testing, end-user training, and application enhancement or upgrade schedules.
+*Communicate status with all project team members and end-user groups in a timely fashion.
+
+======
 
 * Mass Medical International Corporation Boston
 * Digital Marketing Intern                                                         Feb 2019-May 2019
